@@ -36,7 +36,7 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
-![image alt](
+![image alt](https://github.com/shankar-py-coder/EXP-5/blob/main/beee%205%20exp%201st.jpeg?raw=true)
 
 V-I & REGULATION CHARACTERISTICS:
 ![image alt](
