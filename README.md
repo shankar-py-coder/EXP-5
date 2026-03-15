@@ -20,7 +20,8 @@ LINE REGULATION:
 ![image alt](https://github.com/shankar-py-coder/EXP-5/blob/main/Screenshot%202026-03-15%20122132.png?raw=true)
 
 LOAD REGULATION:
-![image alt](
+![image alt](https://github.com/shankar-py-coder/EXP-5/blob/main/Screenshot%202026-03-15%20122206.png?raw=true)
+
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -35,8 +36,10 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+![image alt](
 
 V-I & REGULATION CHARACTERISTICS:
+![image alt](
 
 PRECAUTIONS:
 
